@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "Jalaj Gangwar", email = "jalajgangwar3580@gmail.com" }
 ]
 keywords = ["git", "ai", "developer-tools", "cli", "commit", "readme", "docs"]
 classifiers = [
@@ -31,6 +31,6 @@ dependencies = [
 kommit = "kommit.main:app"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/kommit"
-Repository = "https://github.com/yourusername/kommit"
-Issues = "https://github.com/yourusername/kommit/issues"
+Homepage = "https://github.com/medivh-dll/kommit"
+Repository = "https://github.com/medivh-dll/kommit"
+Issues = "https://github.com/medivh-dll/kommit/issues"
