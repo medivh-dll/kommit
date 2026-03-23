@@ -1,7 +1,7 @@
 import httpx
 import sys
 
-BACKEND_URL = "https://kommit-backend.onrender.com"  # Update after Render deploy
+BACKEND_URL = "https://kommit-backend-9pvn.onrender.com/"  # Update after Render deploy
 
 def call(endpoint: str, payload: dict) -> str:
     """Send a request to the Kommit backend and return the text response."""
